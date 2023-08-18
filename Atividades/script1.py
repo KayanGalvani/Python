@@ -1,4 +1,3 @@
-print(".")
 #    Complete o código do exemplo abordado nos slides, desenvolvendo as opções Editar e Sair;
 #   Desenvolva três exemplos de códigos em Python (.py), demonstrando diferentes tipos de funções. Crie uma função sem parâmetros e sem retorno, outra função com parâmetros e sem retorno, e uma terceira função com parâmetros e retorno. Seja criativo e explore a versatilidade das funções em Python. Certifique-se de fornecer comentários explicativos em seu código para facilitar a compreensão;
 
