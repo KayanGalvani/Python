@@ -73,4 +73,5 @@ if __name__ == "__main__":
     janela = MainJanela()
     janela.show()
     sys.exit(app.exec_())
+
     
