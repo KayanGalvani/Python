@@ -38,3 +38,5 @@ revista = Revista("National Geographic", 2023, "National Geographic Society", "J
 
 print(livro.descricao())
 print(revista.descricao())
+
+#
