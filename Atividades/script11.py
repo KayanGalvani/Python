@@ -38,3 +38,5 @@ bicicleta = Bicicleta("Azul", 1000.0, "Montanha")
 
 print(carro.detalhes())
 print(bicicleta.detalhes())
+
+#
